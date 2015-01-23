@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8A7DF8711A6F3A6300D157AD /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A7DF8701A6F3A6300D157AD /* SettingsViewController.swift */; };
 		8AEE2B501A6F305E00853EA6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AEE2B4F1A6F305E00853EA6 /* AppDelegate.swift */; };
 		8AEE2B521A6F305E00853EA6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AEE2B511A6F305E00853EA6 /* ViewController.swift */; };
 		8AEE2B551A6F305E00853EA6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8AEE2B531A6F305E00853EA6 /* Main.storyboard */; };
@@ -26,6 +27,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8A7DF8701A6F3A6300D157AD /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		8AEE2B4A1A6F305E00853EA6 /* Google Now.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Google Now.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8AEE2B4E1A6F305E00853EA6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8AEE2B4F1A6F305E00853EA6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -83,6 +85,7 @@
 				8AEE2B561A6F305E00853EA6 /* Images.xcassets */,
 				8AEE2B581A6F305E00853EA6 /* LaunchScreen.xib */,
 				8AEE2B4D1A6F305E00853EA6 /* Supporting Files */,
+				8A7DF8701A6F3A6300D157AD /* SettingsViewController.swift */,
 			);
 			path = "Google Now";
 			sourceTree = "<group>";
@@ -214,6 +217,7 @@
 			files = (
 				8AEE2B521A6F305E00853EA6 /* ViewController.swift in Sources */,
 				8AEE2B501A6F305E00853EA6 /* AppDelegate.swift in Sources */,
+				8A7DF8711A6F3A6300D157AD /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -405,6 +409,7 @@
 				8AEE2B6B1A6F305F00853EA6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8AEE2B6C1A6F305F00853EA6 /* Build configuration list for PBXNativeTarget "Google NowTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +418,7 @@
 				8AEE2B6E1A6F305F00853EA6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
