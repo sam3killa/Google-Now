@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6C162B8A-9FE5-4674-A37A-90FC9C880F39</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Google Now</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DF7C38E17CDED328063B512623D6551A0C55A77A</key>
+		<string>https://github.com/sam3killa/Google-Now.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Google Now.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DF7C38E17CDED328063B512623D6551A0C55A77A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sam3killa/Google-Now.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DF7C38E17CDED328063B512623D6551A0C55A77A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DF7C38E17CDED328063B512623D6551A0C55A77A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Google%20Now</string>
+		</dict>
+	</array>
+</dict>
+</plist>
